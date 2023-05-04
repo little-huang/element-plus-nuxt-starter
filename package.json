@@ -20,6 +20,7 @@
   "devDependencies": {
     "@element-plus/icons-vue": "^2.1.0",
     "@element-plus/nuxt": "^1.0.4",
+    "@popperjs/core": "npm:@sxzz/popperjs-es@^2.11.6",
     "@nuxtjs/color-mode": "^3.2.0",
     "@pinia/nuxt": "^0.4.8",
     "@unocss/nuxt": "^0.51.2",
